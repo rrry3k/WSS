@@ -1,0 +1,77 @@
+-----------------------
+2020-04-06 12:36:01 UTC ==> {"Position_ID"=>"P-510"}
+2020-04-06 12:38:02 UTC ==> {"Position_ID"=>"P-510"}
+-----------------------
+2020-04-06 12:47:15 UTC ==> {"Position_ID"=>"P-510"}
+-----------------------
+2020-04-06 12:47:16 UTC ==> {"Position_ID"=>"P-510"}
+-----------------------
+2020-04-06 14:48:32 +0200 ==> {"Position_ID"=>"P-510"}
+-----------------------
+2020-04-06 15:04:37 +0200 ==> {"Position_ID"=>"P-00765", "Position_Name"=>"", "SupORg_Top_Node"=>"Wealth of Knowledge", "Organization_Name"=>""}
+-----------------------
+2020-04-06 15:04:37 +0200 ==> {"Position_ID"=>"P-00766", "Position_Name"=>"", "SupORg_Top_Node"=>"Consulting Services - EMEA Group", "Organization_Name"=>""}
+-----------------------
+2020-04-06 15:24:02 +0200 ==> {"Position_ID"=>"P-00765", "Position_Name"=>"", "SupORg_Top_Node"=>"Wealth of Knowledge", "Organization_Name"=>""}
+-----------------------
+2020-04-06 15:24:02 +0200 ==> {"Position_ID"=>"P-00766", "Position_Name"=>"", "SupORg_Top_Node"=>"Consulting Services - EMEA Group", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:15 +0200 ==> {"Position_ID"=>"P-348", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:17 +0200 ==> {"Position_ID"=>"PCW-06", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:17 +0200 ==> {"Position_ID"=>"Position-6-680", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:17 +0200 ==> {"Position_ID"=>"Position-6-681", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:17 +0200 ==> {"Position_ID"=>"Position-6-682", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:18 +0200 ==> {"Position_ID"=>"Position-6-684", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:18 +0200 ==> {"Position_ID"=>"Position-6-688", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:18 +0200 ==> {"Position_ID"=>"Position-6-689", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:18 +0200 ==> {"Position_ID"=>"Position-6-694", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:18 +0200 ==> {"Position_ID"=>"Position-6-695", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:19 +0200 ==> {"Position_ID"=>"Position-6-696", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:19 +0200 ==> {"Position_ID"=>"Position-6-697", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:19 +0200 ==> {"Position_ID"=>"Position-6-698", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:19 +0200 ==> {"Position_ID"=>"Position-6-699", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:08:19 +0200 ==> {"Position_ID"=>"Position-6-701", "Position_Name"=>"", "SupORg_Top_Node"=>"", "Organization_Name"=>""}
+-----------------------
+2020-04-06 17:14:18 +0200 ==> {"Position_ID"=>"P-348", "Position_Name"=>"Network Project Manager - Principal", "SupORg_Top_Node"=>"SO_563f23e9-47bb-46be-a4f3-651b056d7090", "Organization_Name"=>"SO_FR_DTC_RG_15"}
+-----------------------
+2020-04-06 17:14:18 +0200 ==> {"Position_ID"=>"PCW-06", "Position_Name"=>"Structure", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SO_FR_CORP_CONS_01"}
+-----------------------
+2020-04-06 17:14:18 +0200 ==> {"Position_ID"=>"Position-6-680", "Position_Name"=>"PC_Test", "SupORg_Top_Node"=>"SO_563f23e9-47bb-46be-a4f3-651b056d7090", "Organization_Name"=>"SO_FR_DTC_TM_01"}
+-----------------------
+2020-04-06 17:14:18 +0200 ==> {"Position_ID"=>"Position-6-681", "Position_Name"=>"PC_Test-1", "SupORg_Top_Node"=>"SO_a36326e0-2349-4fcb-a33c-de9f18137773", "Organization_Name"=>"SO_FR_FRANCE_10"}
+-----------------------
+2020-04-06 17:14:18 +0200 ==> {"Position_ID"=>"Position-6-682", "Position_Name"=>"PC_Test-2", "SupORg_Top_Node"=>"SO_a36326e0-2349-4fcb-a33c-de9f18137773", "Organization_Name"=>"SO_FR_FRANCE_10"}
+-----------------------
+2020-04-06 17:14:19 +0200 ==> {"Position_ID"=>"Position-6-684", "Position_Name"=>"PC_Position Test-1", "SupORg_Top_Node"=>"SO_563f23e9-47bb-46be-a4f3-651b056d7090", "Organization_Name"=>"SO_FR_DTC_RH_09"}
+-----------------------
+2020-04-06 17:14:19 +0200 ==> {"Position_ID"=>"Position-6-688", "Position_Name"=>"Collaborative Solutions Project Manager - Consultant", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:19 +0200 ==> {"Position_ID"=>"Position-6-689", "Position_Name"=>"Structure", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:19 +0200 ==> {"Position_ID"=>"Position-6-694", "Position_Name"=>"Test-2", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:19 +0200 ==> {"Position_ID"=>"Position-6-695", "Position_Name"=>"Test-3", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:19 +0200 ==> {"Position_ID"=>"Position-6-696", "Position_Name"=>"Test-4", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:20 +0200 ==> {"Position_ID"=>"Position-6-697", "Position_Name"=>"Test-5", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:20 +0200 ==> {"Position_ID"=>"Position-6-698", "Position_Name"=>"Test-6", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:20 +0200 ==> {"Position_ID"=>"Position-6-699", "Position_Name"=>"Test-7", "SupORg_Top_Node"=>"SO_e72dd8c6-4b88-4347-bd5a-64e936928898", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-302"}
+-----------------------
+2020-04-06 17:14:20 +0200 ==> {"Position_ID"=>"Position-6-701", "Position_Name"=>"create a position test amo", "SupORg_Top_Node"=>"SO_563f23e9-47bb-46be-a4f3-651b056d7090", "Organization_Name"=>"SUPERVISORY_ORGANIZATION-6-305"}
