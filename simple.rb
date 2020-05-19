@@ -33,4 +33,5 @@ delete '/' do
   #File.open('WSDelete.txt', 'a+') { |file| file.puts(Time.now) }
   #File.open('WSDelete.txt', 'a+') { |file| file.puts(env.headers) }
   File.open('WSDelete.txt', 'a+') { |file| file.puts(values) }
+  
 end
